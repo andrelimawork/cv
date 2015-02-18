@@ -1,0 +1,15 @@
+{{#each cvs}}
+<div class="row">
+  <div class="col-md-2 col-md-offset-4">
+  		<ul class="mh-menu">
+			<li>
+				<a href="#mycv/{{_id}}">
+					<div class="rh-name">
+						<span>{{name}} {{secondName}}</span>
+					</div>
+				</a>
+				<img src="imgs/{{photo}}" alt="{{name}} {{secondName}}" class="img-circle">
+			</li>
+		</ul>
+</div>
+{{/each}}

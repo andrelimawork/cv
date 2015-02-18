@@ -1,0 +1,30 @@
+  [{
+      "name": "André",
+      "secondName": "lima",
+      "photo": "alima.jpg",
+      "age": 33,
+      "address": "Rua Anselmo Braancamp nº102",
+      "phone": "00 351 96 3567026",
+      "email": "andrelima.work@gmail.com",
+      "country": "Portugal",
+      "sex": "Male",
+      "JavascriptKungFu": [{
+          "Backbone": "Professional"
+      }, {
+          "Jquery": "Professional"
+      }, {
+          "Bootstrap": "Professional"
+      }, {
+          "Handlebars": "Professional"
+      }, {
+          "Stylus": "Professional"
+      }, {
+          "Express": "Professional"
+      }, {
+          "NodeJs": "Professional"
+      }],
+      "SocialSkills": [],
+      "experience": [],
+      "schools": [],
+      "certificates": []
+  }]
